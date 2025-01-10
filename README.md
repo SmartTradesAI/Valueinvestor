@@ -1,0 +1,1 @@
+Value Investor is a sophisticated long-term trading agent that combines fundamental analysis with macro-economic indicators to identify undervalued assets in the crypto market. It employs advanced ML models to analyze on-chain metrics and market sentiment.
